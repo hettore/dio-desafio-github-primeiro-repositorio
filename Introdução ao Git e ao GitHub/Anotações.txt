@@ -3,3 +3,25 @@
 
 Para criar arquivo do tipo texto usa-se o comando touch no terminal contendo o nome do arquivo.txt
 
+Resumo do Projeto
+
+O projeto me ajudou a relembrar alguns comandos do Git como:
+
+git clone "seguido do repositório criado la no GitHub"  "afim de trazer para a maquina local os arquivos da nuvem"
+
+git init   "que fara com que o git comece a olhar para a diretório criado(que agora já esta na maquina local"
+
+git status "que mostra o status caso tenha alguma alteração feita"
+
+git add . "adiciona todos os arquivos do diretório para serem comitados"
+
+Após usar o comando add usa-se o comando:
+
+git commit -m "seguido de uma mensagem para identificar e dar significância ao commit que será realizado" 
+
+
+
+e por ultimo usamos o:
+
+git push origin main "para empurrar todas as alterações para o repositório na nuvem"
+
