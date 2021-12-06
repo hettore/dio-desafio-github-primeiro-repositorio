@@ -1,0 +1,5 @@
+
+
+
+Para criar arquivo do tipo texto usa-se o comando touch no terminal contendo o nome do arquivo.txt
+
